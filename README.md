@@ -10,8 +10,8 @@
 ✅
 EPG
 📥 播放地址
-📺 {M3U完整版：https://域名/output/index.m3u}
-📺 M3U精简版：https://域名/output/simple.m3u
+📺 M3U完整版：{https://域名/output/index.m3u}
+📺 M3U精简版：[https://域名/output/simple.m3u]
 📋 详细报告：https://域名/output/index.txt
 📡 EPG数据：https://域名/output/epg.xml
 🤖 AI报告：https://域名/output/ai/report
