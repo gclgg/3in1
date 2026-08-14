@@ -1,0 +1,12 @@
+{
+  "name": "iptv-aggregator",
+  "version": "1.0.0",
+  "description": "IPTV 智能聚合 (AI增强)",
+  "main": "src/index.js",
+  "scripts": {
+    "generate": "node scripts/generate.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
