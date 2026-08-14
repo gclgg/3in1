@@ -257,9 +257,11 @@ function generateM3U(mergedChannels, includeAll = true) {
   let m3u = '#EXTM3U\n';
   m3u += '# IPTV 指定源合并版 (AI智能增强)\n';
   m3u += `# 更新时间: ${updateTime} (北京时间)\n`;
-  m3u += `# EPG: ${EPG_CONFIG.url}\n\n`;
-  
-  if (EPG_CONFIG.enabled) m3u += `#EPG: ${EPG_CONFIG.url}\n\n`;
+ 
+  // 直接使用你的 EPG 地址
+  const epgUrl = 'https://epg.gcl.de5.net/epg/51zmt.xml';
+  m3u += `# EPG: ${epgUrl}\n\n`;
+  m3u += `#EPG: ${epgUrl}\n\n`;
 
   m3u += `#EXTINF:-1 group-title="公    告" tvg-logo="https://gitee.com/gclgg/gcl/raw/master/%E5%9B%BD%E6%97%97.png",🕐 数据更新: ${updateTime}\n`;
   m3u += `https://logo.gcl.de5.net/mp4/你看那远山.mp4\n\n`;
