@@ -1,11 +1,11 @@
 #EXTM3U
 # IPTV 指定源合并版 (AI智能增强)
-# 更新时间: 2026-08-14 08:34:48 (北京时间)
+# 更新时间: 2026-08-14 09:31:16 (北京时间)
 # EPG: https://epg.gcl.de5.net/epg/51zmt.xml
 
 #EPG: https://epg.gcl.de5.net/epg/51zmt.xml
 
-#EXTINF:-1 group-title="公    告" tvg-logo="https://gitee.com/gclgg/gcl/raw/master/%E5%9B%BD%E6%97%97.png",🕐 数据更新: 2026-08-14 08:34:48
+#EXTINF:-1 group-title="公    告" tvg-logo="https://gitee.com/gclgg/gcl/raw/master/%E5%9B%BD%E6%97%97.png",🕐 数据更新: 2026-08-14 09:31:16
 https://logo.gcl.de5.net/mp4/你看那远山.mp4
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
@@ -217,7 +217,13 @@ http://175.10.18.124:40803/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
 http://121.29.157.193:7788/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
+http://117.29.147.183:10000/966754039
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
+http://27.18.158.208:7788/966754039
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
 http://113.120.243.10:7788/966754039
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
+http://114.228.118.200:7788/966754039
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
 http://175.10.18.124:40803/966754039
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5

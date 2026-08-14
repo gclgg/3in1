@@ -1,9 +1,9 @@
 ========== IPTV 指定源合并结果 ==========
 
-🕐 更新时间: 2026-08-14 08:34:48
+🕐 更新时间: 2026-08-14 09:31:16
 🤖 AI功能: 智能去重 | 质量评分
 
-📊 总计: 287 个源
+📊 总计: 290 个源
 
 【CCTV1】共 20 个源
    #1 http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -57,7 +57,7 @@
    #10 http://114.228.118.200:7788/631780421
   ... 还有 21 个源
 
-【CCTV5】共 22 个源
+【CCTV5】共 25 个源
    #1 http://61.178.227.57:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
    #2 http://110.72.74.207:808/hls/38/index.m3u8
    #3 http://110.72.103.185:808/hls/38/index.m3u8
@@ -68,7 +68,7 @@
    #8 http://114.245.198.169:85/tsfile/live/5/1005_1.m3u8?key=txiptv
    #9 http://139.227.221.250:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
    #10 http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-  ... 还有 12 个源
+  ... 还有 15 个源
 
 【CCTV5+】共 16 个源
    #1 http://61.178.227.57:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
