@@ -1,198 +1,252 @@
 #EXTM3U
 # IPTV 指定源合并版 (AI智能增强)
-# 更新时间: 2026-08-23 01:19:01 (北京时间)
+# 更新时间: 2026-08-24 01:16:05 (北京时间)
 # EPG: https://epg.gcl.de5.net/epg/51zmt.xml
 
 #EPG: https://epg.gcl.de5.net/epg/51zmt.xml
 
-#EXTINF:-1 group-title="公    告" tvg-logo="https://gitee.com/gclgg/gcl/raw/master/%E5%9B%BD%E6%97%97.png",🕐 数据更新: 2026-08-23 01:19:01
+#EXTINF:-1 group-title="公    告" tvg-logo="https://gitee.com/gclgg/gcl/raw/master/%E5%9B%BD%E6%97%97.png",🕐 数据更新: 2026-08-24 01:16:05
 https://logo.gcl.de5.net/mp4/你看那远山.mp4
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
-http://123.118.53.84:45237/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
+http://124.228.160.210:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
 http://140.75.211.183:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
-http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+http://49.65.159.157:1234/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
-http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+http://123.145.190.213:2000/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
 http://222.213.105.65:7788/608807420
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
+http://39.64.188.137:3000/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
 http://175.17.83.114:1234/608807420
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://logo.gcl.de5.net/tv/CCTV1.png" group-title="央    视",CCTV1
 http://58.19.32.207:4022/rtp/239.254.96.96:8550『线路1』
 
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
-http://123.118.53.84:45237/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
-http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
-http://114.245.198.169:85/tsfile/live/2/1002_1.m3u8?key=txiptv
+http://49.65.159.157:1234/631780532
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
+http://123.145.190.213:2000/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
 http://222.213.105.65:7788/631780532
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
+http://39.64.188.137:3000/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
 http://175.17.83.114:1234/631780532
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://logo.gcl.de5.net/tv/CCTV2.png" group-title="央    视",CCTV2
 http://58.19.32.207:4022/rtp/239.69.1.102:10250『线路1』
 
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
-http://123.118.53.84:45237/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
-http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
-http://114.245.198.169:85/tsfile/live/3/1003_1.m3u8?key=txiptv
+http://49.65.159.157:1234/624878271
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
+http://123.145.190.213:2000/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
 http://222.213.105.65:7788/624878271
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
+http://39.64.188.137:3000/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
 http://175.17.83.114:1234/624878271
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://logo.gcl.de5.net/tv/CCTV3.png" group-title="央    视",CCTV3
 http://58.19.32.207:4022/rtp/239.69.1.122:10370『线路1』
 
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://123.118.53.84:45237/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://182.207.218.175:999/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://49.65.159.157:1234/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://114.245.198.169:85/tsfile/live/4/1004_1.m3u8?key=txiptv
+http://123.145.190.213:2000/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
 http://222.213.105.65:7788/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
+http://39.64.188.137:3000/631780421
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
 http://175.17.83.114:1234/631780421
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
+http://49.65.159.157:1234/608807419
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
+http://123.145.190.213:2000/608807419
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
 http://222.213.105.65:7788/608807419
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://175.17.83.114:1234/608807419
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://222.213.105.65:7788/608807416
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://logo.gcl.de5.net/tv/CCTV4.png" group-title="央    视",CCTV4
-http://175.17.83.114:1234/608807416
 
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
-http://123.118.53.84:45237/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
-http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
-http://114.245.198.169:85/tsfile/live/5/1005_1.m3u8?key=txiptv
+http://49.65.159.157:1234/641886683
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
+http://123.145.190.213:2000/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
 http://222.213.105.65:7788/641886683
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
+http://39.64.188.137:3000/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
 http://175.17.83.114:1234/641886683
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5.png" group-title="央    视",CCTV5
 http://58.19.32.207:4022/rtp/239.69.1.123:10376『线路1』
 
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
-http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
-http://114.245.198.169:85/tsfile/live/23/1023_1.m3u8?key=txiptv
+http://124.228.160.210:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
+http://49.65.159.157:1234/641886773
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
+http://123.145.190.213:2000/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
 http://222.213.105.65:7788/641886773
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
+http://39.64.188.137:3000/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
 http://175.17.83.114:1234/641886773
 #EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://logo.gcl.de5.net/tv/CCTV5%2B.png" group-title="央    视",CCTV5+
 http://58.19.32.207:4022/rtp/239.254.96.234:9484『线路1』
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
-http://123.118.53.84:45237/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
-http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
-http://182.207.218.175:999/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+http://49.65.159.157:1234/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
-http://114.245.198.169:85/tsfile/live/6/1006_1.m3u8?key=txiptv
+http://123.145.190.213:2000/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
 http://222.213.105.65:7788/624878396
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
+http://39.64.188.137:3000/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
 http://175.17.83.114:1234/624878396
 #EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://logo.gcl.de5.net/tv/CCTV6.png" group-title="央    视",CCTV6
 http://58.19.32.207:4022/rtp/239.69.1.124:10382『线路1』
 
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
-http://123.118.53.84:45237/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
-http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
-http://114.245.198.169:85/tsfile/live/7/1007_1.m3u8?key=txiptv
+http://49.65.159.157:1234/673168121
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
+http://123.145.190.213:2000/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
 http://222.213.105.65:7788/673168121
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
+http://39.64.188.137:3000/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
 http://175.17.83.114:1234/673168121
 #EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://logo.gcl.de5.net/tv/CCTV7.png" group-title="央    视",CCTV7
 http://58.19.32.207:4022/rtp/239.69.1.103:10256『线路1』
 
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
-http://123.118.53.84:45237/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
-http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
-http://114.245.198.169:85/tsfile/live/8/1008_1.m3u8?key=txiptv
+http://49.65.159.157:1234/624878356
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
+http://123.145.190.213:2000/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
 http://222.213.105.65:7788/624878356
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
+http://39.64.188.137:3000/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
 http://175.17.83.114:1234/624878356
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://logo.gcl.de5.net/tv/CCTV8.png" group-title="央    视",CCTV8
 http://58.19.32.207:4022/rtp/239.69.1.125:10388『线路1』
 
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
-http://123.118.53.84:45237/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
-http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
-http://114.245.198.169:85/tsfile/live/9/1009_1.m3u8?key=txiptv
+http://49.65.159.157:1234/673168140
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
+http://123.145.190.213:2000/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
 http://222.213.105.65:7788/673168140
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
+http://39.64.188.137:3000/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
 http://175.17.83.114:1234/673168140
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://logo.gcl.de5.net/tv/CCTV9.png" group-title="央    视",CCTV9
 http://58.19.32.207:4022/rtp/239.69.1.104:10262『线路1』
 
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
-http://123.118.53.84:45237/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
-http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
-http://114.245.198.169:85/tsfile/live/10/1010_1.m3u8?key=txiptv
+http://49.65.159.157:1234/624878405
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
+http://123.145.190.213:2000/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
 http://222.213.105.65:7788/624878405
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
+http://39.64.188.137:3000/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
 http://175.17.83.114:1234/624878405
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://logo.gcl.de5.net/tv/CCTV10.png" group-title="央    视",CCTV10
 http://58.19.32.207:4022/rtp/239.69.1.105:10268『线路1』
 
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
-http://123.118.53.84:45237/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
-http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0012_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
-http://114.245.198.169:85/tsfile/live/12/1012_1.m3u8?key=txiptv
+http://115.196.209.123:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
-http://123.118.53.84:45237/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.210:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
-http://114.245.198.169:85/tsfile/live/11/1011_1.m3u8?key=txiptv
+http://49.65.159.157:1234/667987558
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
+http://123.145.190.213:2000/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
 http://222.213.105.65:7788/667987558
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
+http://39.64.188.137:3000/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
 http://175.17.83.114:1234/667987558
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://logo.gcl.de5.net/tv/CCTV11.png" group-title="央    视",CCTV11
 http://58.19.32.207:4022/rtp/239.69.1.154:10560『线路1』
 
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png" group-title="央    视",CCTV12
-http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+http://49.65.159.157:1234/673168185
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png" group-title="央    视",CCTV12
+http://123.145.190.213:2000/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png" group-title="央    视",CCTV12
 http://222.213.105.65:7788/673168185
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png" group-title="央    视",CCTV12
+http://39.64.188.137:3000/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png" group-title="央    视",CCTV12
 http://175.17.83.114:1234/673168185
 #EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://logo.gcl.de5.net/tv/CCTV12.png" group-title="央    视",CCTV12
 http://58.19.32.207:4022/rtp/239.69.1.106:10274『线路1』
 
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
-http://123.118.53.84:45237/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+http://115.196.209.123:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
-http://114.245.198.169:85/tsfile/live/13/1013_1.m3u8?key=txiptv
+http://124.228.160.210:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
+http://49.65.159.157:1234/608807423
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
+http://123.145.190.213:2000/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
 http://222.213.105.65:7788/608807423
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
+http://39.64.188.137:3000/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
 http://175.17.83.114:1234/608807423
 #EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://logo.gcl.de5.net/tv/CCTV13.png" group-title="央    视",CCTV13
@@ -217,7 +271,7 @@ https://cdn6.cc.cd/163189/fhhk
 #EXTINF:-1 tvg-id="FenghuangChinese" tvg-logo="https://logo.gcl.de5.net/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="凤    凰",凤凰中文
 https://ktpremium.world/live/LT1976F/A9177/492400.ts$LR•IPV4『线路3』
 #EXTINF:-1 tvg-id="FenghuangChinese" tvg-logo="https://logo.gcl.de5.net/tv/%E5%87%A4%E5%87%B0%E4%B8%AD%E6%96%87.png" group-title="凤    凰",凤凰中文
-https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 #EXTINF:-1 tvg-id="FenghuangInfo" tvg-logo="https://logo.gcl.de5.net/tv/%E5%87%A4%E5%87%B0%E8%B5%84%E8%AE%AF.png" group-title="凤    凰",凤凰资讯
 https://cdn6.cc.cd/163189/fhzx$LR•IPV4『线路1』
