@@ -1,19 +1,19 @@
 ========== IPTV 指定源合并结果 ==========
 
-🕐 更新时间: 2026-09-11 03:18:28
+🕐 更新时间: 2026-09-12 03:23:57
 🤖 AI功能: 智能去重 | 质量评分
 
-📊 总计: 61 个源
+📊 总计: 59 个源
 
 【CCTV1】共 4 个源
-   #1 http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
-   #2 http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-   #3 http://183.243.90.126:9003/hls/1/index.m3u8
+   #1 http://183.243.90.126:9003/hls/1/index.m3u8
+   #2 http://114.245.198.169:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+   #3 http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
    #4 http://110.72.81.174:808/hls/54/index.m3u8
 
 【CCTV2】共 3 个源
-   #1 http://171.38.222.113:9003/hls/2/index.m3u8
-   #2 http://114.245.198.169:85/tsfile/live/2/1002_1.m3u8?key=txiptv
+   #1 http://114.245.198.169:85/tsfile/live/2/1002_1.m3u8?key=txiptv
+   #2 http://171.38.222.113:9003/hls/2/index.m3u8
    #3 http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
 
 【CCTV3】共 3 个源
@@ -27,9 +27,9 @@
    #3 http://114.245.198.169:85/tsfile/live/4/1004_1.m3u8?key=txiptv
 
 【CCTV5】共 4 个源
-   #1 http://171.38.222.113:9003/hls/141/index.m3u8
-   #2 http://110.72.81.174:808/hls/38/index.m3u8
-   #3 http://114.245.198.169:85/tsfile/live/5/1005_1.m3u8?key=txiptv
+   #1 http://110.72.81.174:808/hls/38/index.m3u8
+   #2 http://114.245.198.169:85/tsfile/live/5/1005_1.m3u8?key=txiptv
+   #3 http://171.38.222.113:9003/hls/141/index.m3u8
    #4 http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
 
 【CCTV5+】共 2 个源
@@ -60,9 +60,9 @@
    #2 http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
 
 【CCTV11】共 4 个源
-   #1 http://114.245.198.169:85/tsfile/live/12/1012_1.m3u8?key=txiptv
-   #2 http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-   #3 http://183.243.90.126:9003/hls/11/index.m3u8
+   #1 http://183.243.90.126:9003/hls/11/index.m3u8
+   #2 http://114.245.198.169:85/tsfile/live/12/1012_1.m3u8?key=txiptv
+   #3 http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
    #4 http://114.245.198.169:85/tsfile/live/11/1011_1.m3u8?key=txiptv
 
 【CCTV12】共 1 个源
@@ -71,7 +71,7 @@
 【CCTV13】共 1 个源
    #1 http://114.245.198.169:85/tsfile/live/13/1013_1.m3u8?key=txiptv
 
-【凤凰中文】共 15 个源
+【凤凰中文】共 14 个源
    #1 https://cdn6.cc.cd/163189/fhzw$LR•IPV4『线路1』
    #2 https://cdn6.cc.cd/163189/fhhk$LR•IPV4『线路1』
    #3 https://cdn6.163189.xyz/163189/fhzw
@@ -82,15 +82,14 @@
    #8 https://cdn6.cc.cd/163189/fhhk
    #9 https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
    #10 https://ktpremium.world/live/LT1976F/A9177/492398.ts
-  ... 还有 5 个源
+  ... 还有 4 个源
 
-【凤凰资讯】共 8 个源
+【凤凰资讯】共 7 个源
    #1 https://cdn6.cc.cd/163189/fhzx$LR•IPV4『线路1』
    #2 https://cdn6.163189.xyz/163189/fhzx
    #3 https://cdn6.cc.cd/163189/fhzx
    #4 https://ktpremium.world/live/LT1976F/A9177/492399.ts
    #5 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4『线路4』
    #6 http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-   #7 http://k.061899.xyz/k.php?id=fhzx
-   #8 http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊備&key=***
+   #7 http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊備&key=***
 
