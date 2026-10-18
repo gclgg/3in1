@@ -1,120 +1,157 @@
 ========== IPTV 指定源合并结果 ==========
 
-🕐 更新时间: 2026-10-17 03:14:19
+🕐 更新时间: 2026-10-18 03:18:19
 🤖 AI功能: 智能去重 | 质量评分
 
-📊 总计: 106 个源
+📊 总计: 147 个源
 
-【CCTV1】共 8 个源
-   #1 http://60.26.15.228:85/tsfile/live/33/1007.m3u8?key=txiptv
-   #2 http://139.227.221.198:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://221.221.137.78:8888/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-   #4 http://123.159.69.17:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV1】共 9 个源
+   #1 http://183.94.146.79:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://60.26.19.69:85/tsfile/live/33/1007.m3u8?key=txiptv
+   #3 http://114.241.110.141:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+   #4 http://60.26.15.228:85/tsfile/live/33/1007.m3u8?key=txiptv
    #5 http://101.65.131.130:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-   #6 http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
-   #7 http://123.159.70.15:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-   #8 http://110.72.72.37:808/hls/54/index.m3u8
+   #6 http://110.72.64.108:808/hls/54/index.m3u8
+   #7 http://110.72.78.198:808/hls/54/index.m3u8
+   #8 http://110.72.74.217:808/hls/54/index.m3u8
+   #9 http://110.72.79.65:808/hls/54/index.m3u8
 
-【CCTV2】共 7 个源
-   #1 http://60.26.15.228:85/tsfile/live/37/1008.m3u8?key=txiptv
-   #2 http://139.227.221.198:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://221.221.137.78:8888/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-   #4 http://123.159.69.17:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://101.65.131.130:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
-   #6 http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
-   #7 http://123.159.70.15:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV2】共 9 个源
+   #1 http://110.72.64.108:808/hls/97/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/97/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/37/1008.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/2/1002_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/97/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/37/1008.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/97/index.m3u8
 
-【CCTV3】共 5 个源
-   #1 http://60.26.15.228:85/tsfile/live/41/1009.m3u8?key=txiptv
-   #2 http://110.72.72.37:808/hls/37/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://101.65.131.130:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+【CCTV3】共 9 个源
+   #1 http://110.72.64.108:808/hls/37/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/37/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/41/1009.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/3/1003_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/37/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/41/1009.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/37/index.m3u8
 
-【CCTV4】共 5 个源
-   #1 http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-   #2 http://60.26.15.228:85/tsfile/live/45/1010.m3u8?key=txiptv
-   #3 http://139.227.221.198:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://221.221.137.78:8888/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-   #5 http://101.65.131.130:85/tsfile/live/1016_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV4】共 8 个源
+   #1 http://110.72.64.108:808/hls/113/index.m3u8
+   #2 http://110.72.78.198:808/hls/113/index.m3u8
+   #3 http://110.72.74.217:808/hls/113/index.m3u8
+   #4 http://110.72.79.65:808/hls/113/index.m3u8
+   #5 http://60.26.19.69:85/tsfile/live/45/1010.m3u8?key=txiptv
+   #6 http://60.26.15.228:85/tsfile/live/45/1010.m3u8?key=txiptv
+   #7 http://183.94.146.79:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+   #8 http://114.241.110.141:85/tsfile/live/4/1004_1.m3u8?key=txiptv
 
-【CCTV5】共 8 个源
-   #1 http://60.26.15.228:85/tsfile/live/49/1011.m3u8?key=txiptv
-   #2 http://110.72.72.37:808/hls/38/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://221.221.137.78:8888/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-   #5 http://101.65.131.130:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-   #6 http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-   #7 http://123.159.70.15:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
-   #8 http://60.26.15.228:85/tsfile/live/101/1024.m3u8?key=txiptv
+【CCTV5】共 10 个源
+   #1 http://110.72.64.108:808/hls/38/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/38/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/49/1011.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/5/1005_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/38/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/49/1011.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/38/index.m3u8
+   #10 http://60.26.19.69:85/tsfile/live/101/1024.m3u8?key=txiptv
 
-【CCTV5+】共 3 个源
-   #1 http://110.72.72.37:808/hls/14/index.m3u8
-   #2 http://221.221.137.78:8888/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
-   #3 http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+【CCTV5+】共 5 个源
+   #1 http://110.72.64.108:808/hls/14/index.m3u8
+   #2 http://110.72.78.198:808/hls/14/index.m3u8
+   #3 http://114.241.110.141:85/tsfile/live/23/1023_1.m3u8?key=txiptv
+   #4 http://110.72.74.217:808/hls/14/index.m3u8
+   #5 http://110.72.79.65:808/hls/14/index.m3u8
 
-【CCTV6】共 6 个源
-   #1 http://60.26.15.228:85/tsfile/live/53/1012.m3u8?key=txiptv
-   #2 http://110.72.72.37:808/hls/39/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://123.159.69.17:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://101.65.131.130:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
-   #6 http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+【CCTV6】共 9 个源
+   #1 http://110.72.64.108:808/hls/39/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/39/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/53/1012.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/6/1006_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/39/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/53/1012.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1018_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/39/index.m3u8
 
-【CCTV7】共 8 个源
-   #1 http://110.72.72.37:808/hls/5/index.m3u8
-   #2 http://139.227.221.198:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://221.221.137.78:8888/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-   #4 http://123.159.69.17:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://101.65.131.130:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
-   #6 http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
-   #7 http://123.159.70.15:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
-   #8 http://60.26.15.228:85/tsfile/live/57/1013.m3u8?key=txiptv
+【CCTV7】共 13 个源
+   #1 http://110.72.64.108:808/hls/5/index.m3u8
+   #2 http://110.72.64.108:808/hls/98/index.m3u8
+   #3 http://183.94.146.79:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+   #4 http://110.72.78.198:808/hls/5/index.m3u8
+   #5 http://110.72.78.198:808/hls/98/index.m3u8
+   #6 http://114.241.110.141:85/tsfile/live/7/1007_1.m3u8?key=txiptv
+   #7 http://110.72.74.217:808/hls/5/index.m3u8
+   #8 http://110.72.74.217:808/hls/98/index.m3u8
+   #9 http://101.65.131.130:85/tsfile/live/1019_1.m3u8?key=txiptv&playlive=0&authid=0
+   #10 http://110.72.79.65:808/hls/98/index.m3u8
+  ... 还有 3 个源
 
-【CCTV8】共 5 个源
-   #1 http://60.26.15.228:85/tsfile/live/61/1014.m3u8?key=txiptv
-   #2 http://110.72.72.37:808/hls/40/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://101.65.131.130:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+【CCTV8】共 9 个源
+   #1 http://110.72.64.108:808/hls/40/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/40/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/61/1014.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/8/1008_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/40/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/61/1014.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/40/index.m3u8
 
-【CCTV9】共 6 个源
-   #1 http://60.26.15.228:85/tsfile/live/65/1015.m3u8?key=txiptv
-   #2 http://139.227.221.198:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://123.159.69.17:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://101.65.131.130:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
-   #6 http://123.159.70.15:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV9】共 9 个源
+   #1 http://110.72.64.108:808/hls/119/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/119/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/65/1015.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/9/1009_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/119/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/65/1015.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/119/index.m3u8
 
-【CCTV10】共 7 个源
-   #1 http://60.26.15.228:85/tsfile/live/69/1016.m3u8?key=txiptv
-   #2 http://139.227.221.198:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://221.221.137.78:8888/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-   #4 http://123.159.69.17:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://101.65.131.130:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-   #6 http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
-   #7 http://123.159.70.15:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV10】共 9 个源
+   #1 http://110.72.64.108:808/hls/99/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/99/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/69/1016.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/10/1010_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/99/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/69/1016.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/99/index.m3u8
 
-【CCTV11】共 9 个源
-   #1 http://60.26.15.228:85/tsfile/live/77/1018.m3u8?key=txiptv
-   #2 http://139.227.221.198:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://123.159.69.17:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://101.65.131.130:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
-   #6 http://123.159.70.15:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-   #7 http://183.239.248.218:8181/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-   #8 http://60.26.15.228:85/tsfile/live/73/1017.m3u8?key=txiptv
-   #9 http://139.227.221.198:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV11】共 13 个源
+   #1 http://110.72.64.108:808/hls/100/index.m3u8
+   #2 http://183.94.146.79:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+   #3 http://110.72.78.198:808/hls/100/index.m3u8
+   #4 http://60.26.19.69:85/tsfile/live/77/1018.m3u8?key=txiptv
+   #5 http://114.241.110.141:85/tsfile/live/12/1012_1.m3u8?key=txiptv
+   #6 http://110.72.74.217:808/hls/100/index.m3u8
+   #7 http://60.26.15.228:85/tsfile/live/77/1018.m3u8?key=txiptv
+   #8 http://101.65.131.130:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
+   #9 http://110.72.79.65:808/hls/100/index.m3u8
+   #10 http://183.94.146.79:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+  ... 还有 3 个源
 
-【CCTV12】共 1 个源
-   #1 http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+【CCTV12】共 4 个源
+   #1 http://110.72.64.108:808/hls/101/index.m3u8
+   #2 http://110.72.78.198:808/hls/101/index.m3u8
+   #3 http://110.72.74.217:808/hls/101/index.m3u8
+   #4 http://110.72.79.65:808/hls/101/index.m3u8
 
-【CCTV13】共 5 个源
-   #1 http://60.26.15.228:85/tsfile/live/81/1019.m3u8?key=txiptv
-   #2 http://139.227.221.198:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://123.159.69.17:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://101.65.131.130:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
-   #5 http://123.159.70.15:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV13】共 8 个源
+   #1 http://110.72.64.108:808/hls/106/index.m3u8
+   #2 http://110.72.78.198:808/hls/106/index.m3u8
+   #3 http://60.26.19.69:85/tsfile/live/81/1019.m3u8?key=txiptv
+   #4 http://114.241.110.141:85/tsfile/live/13/1013_1.m3u8?key=txiptv
+   #5 http://110.72.74.217:808/hls/106/index.m3u8
+   #6 http://60.26.15.228:85/tsfile/live/81/1019.m3u8?key=txiptv
+   #7 http://101.65.131.130:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
+   #8 http://110.72.79.65:808/hls/106/index.m3u8
 
 【凤凰中文】共 16 个源
    #1 https://cdn6.cc.cd/163189/fhzw$LR•IPV4『线路5』
