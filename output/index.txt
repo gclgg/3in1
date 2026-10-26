@@ -1,51 +1,63 @@
 ========== IPTV 指定源合并结果 ==========
 
-🕐 更新时间: 2026-10-25 03:28:01
+🕐 更新时间: 2026-10-26 03:30:20
 🤖 AI功能: 智能去重 | 质量评分
 
-📊 总计: 36 个源
+📊 总计: 49 个源
 
-【CCTV1】共 1 个源
+【CCTV1】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV2】共 1 个源
+【CCTV2】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV3】共 1 个源
+【CCTV3】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV4】共 1 个源
+【CCTV4】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV5】共 1 个源
+【CCTV5】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 【CCTV5+】共 1 个源
    #1 http://120.238.84.45:9901/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
 
-【CCTV6】共 1 个源
+【CCTV6】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV7】共 1 个源
+【CCTV7】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV8】共 1 个源
+【CCTV8】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV9】共 1 个源
+【CCTV9】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV10】共 1 个源
+【CCTV10】共 2 个源
    #1 http://120.238.84.45:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV11】共 1 个源
+【CCTV11】共 3 个源
    #1 http://120.238.84.45:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+   #2 http://139.227.221.198:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+   #3 http://139.227.221.198:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 
 【CCTV12】共 1 个源
    #1 http://120.238.84.45:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
 
-【CCTV13】共 0 个源
-  ⚠️ 未找到源
+【CCTV13】共 1 个源
+   #1 http://139.227.221.198:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 
 【凤凰中文】共 16 个源
    #1 https://cdn6.cc.cd/163189/fhzw$LR•IPV4『线路5』
