@@ -1,142 +1,143 @@
 ========== IPTV 指定源合并结果 ==========
 
-🕐 更新时间: 2026-11-07 04:52:58
+🕐 更新时间: 2026-11-08 04:45:00
 🤖 AI功能: 智能去重 | 质量评分
 
-📊 总计: 209 个源
+📊 总计: 217 个源
 
-【CCTV1】共 24 个源
-   #1 http://110.72.82.123:808/hls/54/index.m3u8
-   #2 http://139.227.221.198:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-   #3 http://60.10.50.14:808/hls/1/index.m3u8
-   #4 http://110.72.77.228:808/hls/54/index.m3u8
+【CCTV1】共 26 个源
+   #1 http://110.72.39.159:808/hls/01/index.m3u8
+   #2 http://101.66.194.250:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
+   #3 http://110.72.82.123:808/hls/54/index.m3u8
+   #4 http://101.66.195.94:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
    #5 http://110.72.67.136:808/hls/54/index.m3u8
-   #6 http://110.72.87.54:808/hls/54/index.m3u8
+   #6 http://110.72.77.19:808/hls/54/index.m3u8
    #7 http://110.72.75.114:808/hls/54/index.m3u8
    #8 http://110.72.76.22:808/hls/54/index.m3u8
-   #9 http://110.72.84.152:808/hls/54/index.m3u8
+   #9 http://110.72.67.180:808/hls/54/index.m3u8
    #10 http://110.72.75.159:808/hls/54/index.m3u8
-  ... 还有 14 个源
+  ... 还有 16 个源
 
-【CCTV2】共 4 个源
-   #1 http://110.72.67.136:808/hls/97/index.m3u8
-   #2 http://110.72.87.54:808/hls/97/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://60.10.50.14:808/hls/2/index.m3u8
+【CCTV2】共 5 个源
+   #1 http://110.72.77.19:808/hls/97/index.m3u8
+   #2 http://110.72.39.159:808/hls/02/index.m3u8
+   #3 http://101.66.194.250:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
+   #4 http://110.72.67.180:808/hls/97/index.m3u8
+   #5 http://101.66.195.94:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV3】共 21 个源
-   #1 http://110.72.77.228:808/hls/37/index.m3u8
-   #2 http://110.72.67.136:808/hls/37/index.m3u8
-   #3 http://110.72.87.54:808/hls/37/index.m3u8
+【CCTV3】共 22 个源
+   #1 http://110.72.67.136:808/hls/37/index.m3u8
+   #2 http://110.72.77.19:808/hls/37/index.m3u8
+   #3 http://110.72.39.159:808/hls/84/index.m3u8
    #4 http://110.72.75.114:808/hls/37/index.m3u8
    #5 http://110.72.76.22:808/hls/37/index.m3u8
-   #6 http://110.72.84.152:808/hls/37/index.m3u8
-   #7 http://110.72.75.159:808/hls/37/index.m3u8
-   #8 http://110.72.59.198:808/hls/37/index.m3u8
-   #9 http://110.72.85.1:808/hls/37/index.m3u8
-   #10 http://110.72.84.243:808/hls/37/index.m3u8
-  ... 还有 11 个源
+   #6 http://101.66.194.250:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
+   #7 http://110.72.67.180:808/hls/37/index.m3u8
+   #8 http://110.72.75.159:808/hls/37/index.m3u8
+   #9 http://110.72.87.54:808/hls/37/index.m3u8
+   #10 http://110.72.85.1:808/hls/37/index.m3u8
+  ... 还有 12 个源
 
-【CCTV4】共 4 个源
-   #1 http://110.72.67.136:808/hls/113/index.m3u8
-   #2 http://110.72.87.54:808/hls/113/index.m3u8
-   #3 http://60.10.50.14:808/hls/4/index.m3u8
-   #4 http://139.227.221.198:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV4】共 3 个源
+   #1 http://110.72.77.19:808/hls/113/index.m3u8
+   #2 http://110.72.39.159:808/hls/04/index.m3u8
+   #3 http://110.72.67.180:808/hls/113/index.m3u8
 
 【CCTV5】共 24 个源
-   #1 http://110.72.77.228:808/hls/38/index.m3u8
-   #2 http://110.72.67.136:808/hls/38/index.m3u8
-   #3 http://110.72.87.54:808/hls/38/index.m3u8
+   #1 http://110.72.67.136:808/hls/38/index.m3u8
+   #2 http://110.72.77.19:808/hls/38/index.m3u8
+   #3 http://110.72.39.159:808/hls/82/index.m3u8
    #4 http://110.72.75.114:808/hls/38/index.m3u8
    #5 http://110.72.76.22:808/hls/38/index.m3u8
-   #6 http://110.72.84.152:808/hls/38/index.m3u8
+   #6 http://110.72.67.180:808/hls/38/index.m3u8
    #7 http://110.72.75.159:808/hls/38/index.m3u8
-   #8 http://110.72.59.198:808/hls/38/index.m3u8
+   #8 http://110.72.87.54:808/hls/38/index.m3u8
    #9 http://110.72.85.1:808/hls/38/index.m3u8
-   #10 http://110.72.71.15:808/hls/38/index.m3u8
+   #10 http://110.72.59.198:808/hls/38/index.m3u8
   ... 还有 14 个源
 
-【CCTV5+】共 19 个源
-   #1 http://110.72.77.228:808/hls/14/index.m3u8
-   #2 http://110.72.67.136:808/hls/14/index.m3u8
-   #3 http://110.72.87.54:808/hls/14/index.m3u8
+【CCTV5+】共 20 个源
+   #1 http://110.72.67.136:808/hls/14/index.m3u8
+   #2 http://110.72.77.19:808/hls/14/index.m3u8
+   #3 http://110.72.39.159:808/hls/16/index.m3u8
    #4 http://110.72.75.114:808/hls/14/index.m3u8
    #5 http://110.72.76.22:808/hls/14/index.m3u8
-   #6 http://110.72.84.152:808/hls/14/index.m3u8
+   #6 http://110.72.67.180:808/hls/14/index.m3u8
    #7 http://110.72.75.159:808/hls/14/index.m3u8
-   #8 http://110.72.85.1:808/hls/14/index.m3u8
-   #9 http://110.72.71.15:808/hls/14/index.m3u8
-   #10 http://110.72.85.48:808/hls/14/index.m3u8
-  ... 还有 9 个源
+   #8 http://110.72.87.54:808/hls/14/index.m3u8
+   #9 http://110.72.85.1:808/hls/14/index.m3u8
+   #10 http://110.72.70.216:808/hls/14/index.m3u8
+  ... 还有 10 个源
 
 【CCTV6】共 24 个源
-   #1 http://110.72.77.228:808/hls/39/index.m3u8
-   #2 http://110.72.67.136:808/hls/39/index.m3u8
-   #3 http://110.72.87.54:808/hls/39/index.m3u8
+   #1 http://110.72.67.136:808/hls/39/index.m3u8
+   #2 http://110.72.77.19:808/hls/39/index.m3u8
+   #3 http://110.72.39.159:808/hls/85/index.m3u8
    #4 http://110.72.75.114:808/hls/39/index.m3u8
    #5 http://110.72.76.22:808/hls/39/index.m3u8
-   #6 http://110.72.84.152:808/hls/39/index.m3u8
+   #6 http://110.72.67.180:808/hls/39/index.m3u8
    #7 http://110.72.75.159:808/hls/39/index.m3u8
-   #8 http://110.72.59.198:808/hls/39/index.m3u8
+   #8 http://110.72.87.54:808/hls/39/index.m3u8
    #9 http://110.72.85.1:808/hls/39/index.m3u8
-   #10 http://110.72.71.15:808/hls/39/index.m3u8
+   #10 http://110.72.59.198:808/hls/39/index.m3u8
   ... 还有 14 个源
 
-【CCTV7】共 23 个源
+【CCTV7】共 25 个源
    #1 http://110.72.67.136:808/hls/5/index.m3u8
-   #2 http://110.72.67.136:808/hls/98/index.m3u8
-   #3 http://110.72.87.54:808/hls/5/index.m3u8
-   #4 http://110.72.87.54:808/hls/98/index.m3u8
+   #2 http://110.72.77.19:808/hls/5/index.m3u8
+   #3 http://110.72.77.19:808/hls/98/index.m3u8
+   #4 http://110.72.39.159:808/hls/7/index.m3u8
    #5 http://110.72.75.114:808/hls/5/index.m3u8
    #6 http://110.72.76.22:808/hls/5/index.m3u8
-   #7 http://110.72.84.152:808/hls/5/index.m3u8
-   #8 http://110.72.75.159:808/hls/5/index.m3u8
-   #9 http://110.72.59.198:808/hls/5/index.m3u8
-   #10 http://110.72.85.1:808/hls/5/index.m3u8
-  ... 还有 13 个源
+   #7 http://101.66.194.250:85/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
+   #8 http://110.72.67.180:808/hls/5/index.m3u8
+   #9 http://110.72.67.180:808/hls/98/index.m3u8
+   #10 http://110.72.75.159:808/hls/5/index.m3u8
+  ... 还有 15 个源
 
-【CCTV8】共 23 个源
-   #1 http://110.72.77.228:808/hls/40/index.m3u8
-   #2 http://110.72.67.136:808/hls/40/index.m3u8
-   #3 http://110.72.87.54:808/hls/40/index.m3u8
+【CCTV8】共 24 个源
+   #1 http://110.72.67.136:808/hls/40/index.m3u8
+   #2 http://110.72.77.19:808/hls/40/index.m3u8
+   #3 http://110.72.39.159:808/hls/86/index.m3u8
    #4 http://110.72.75.114:808/hls/40/index.m3u8
    #5 http://110.72.76.22:808/hls/40/index.m3u8
-   #6 http://110.72.84.152:808/hls/40/index.m3u8
+   #6 http://110.72.67.180:808/hls/40/index.m3u8
    #7 http://110.72.75.159:808/hls/40/index.m3u8
-   #8 http://110.72.59.198:808/hls/40/index.m3u8
+   #8 http://110.72.87.54:808/hls/40/index.m3u8
    #9 http://110.72.85.1:808/hls/40/index.m3u8
-   #10 http://110.72.71.15:808/hls/40/index.m3u8
-  ... 还有 13 个源
+   #10 http://110.72.59.198:808/hls/40/index.m3u8
+  ... 还有 14 个源
 
-【CCTV9】共 4 个源
-   #1 http://110.72.67.136:808/hls/119/index.m3u8
-   #2 http://110.72.87.54:808/hls/119/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://60.10.50.14:808/hls/9/index.m3u8
+【CCTV9】共 5 个源
+   #1 http://110.72.77.19:808/hls/119/index.m3u8
+   #2 http://110.72.39.159:808/hls/9/index.m3u8
+   #3 http://101.66.194.250:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
+   #4 http://110.72.67.180:808/hls/119/index.m3u8
+   #5 http://101.66.195.94:85/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV10】共 4 个源
-   #1 http://110.72.67.136:808/hls/99/index.m3u8
-   #2 http://110.72.87.54:808/hls/99/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://60.10.50.14:808/hls/10/index.m3u8
+【CCTV10】共 5 个源
+   #1 http://110.72.77.19:808/hls/99/index.m3u8
+   #2 http://110.72.39.159:808/hls/10/index.m3u8
+   #3 http://101.66.194.250:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
+   #4 http://110.72.67.180:808/hls/99/index.m3u8
+   #5 http://101.66.195.94:85/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 
-【CCTV11】共 5 个源
-   #1 http://110.72.67.136:808/hls/100/index.m3u8
-   #2 http://110.72.87.54:808/hls/100/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://60.10.50.14:808/hls/11/index.m3u8
-   #5 http://139.227.221.198:85/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
+【CCTV11】共 4 个源
+   #1 http://110.72.77.19:808/hls/100/index.m3u8
+   #2 http://110.72.39.159:808/hls/11/index.m3u8
+   #3 http://101.66.194.250:85/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
+   #4 http://110.72.67.180:808/hls/100/index.m3u8
 
 【CCTV12】共 3 个源
-   #1 http://110.72.67.136:808/hls/101/index.m3u8
-   #2 http://110.72.87.54:808/hls/101/index.m3u8
-   #3 http://60.10.50.14:808/hls/12/index.m3u8
+   #1 http://110.72.77.19:808/hls/101/index.m3u8
+   #2 http://110.72.39.159:808/hls/12/index.m3u8
+   #3 http://110.72.67.180:808/hls/101/index.m3u8
 
 【CCTV13】共 4 个源
-   #1 http://110.72.67.136:808/hls/106/index.m3u8
-   #2 http://110.72.87.54:808/hls/106/index.m3u8
-   #3 http://139.227.221.198:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-   #4 http://60.10.50.14:808/hls/13/index.m3u8
+   #1 http://110.72.77.19:808/hls/106/index.m3u8
+   #2 http://110.72.39.159:808/hls/13/index.m3u8
+   #3 http://101.66.194.250:85/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+   #4 http://110.72.67.180:808/hls/106/index.m3u8
 
 【凤凰中文】共 16 个源
    #1 https://cdn6.cc.cd/163189/fhzw$LR•IPV4『线路5』
